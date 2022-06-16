@@ -212,6 +212,7 @@
                 <toc-element id="multiplatform-mobile-concurrency-overview.md" accepts-web-file-names="kmm-concurrency-overview.html"/>
                 <toc-element id="multiplatform-mobile-concurrent-mutability.md" accepts-web-file-names="kmm-concurrent-mutability.html"/>
                 <toc-element id="multiplatform-mobile-concurrency-and-coroutines.md" accepts-web-file-names="kmm-concurrency-and-coroutines.html"/>
+                <toc-element id="multiplatform-mobile-coroutines-and-channels.md"/>
             </toc-element>
             <toc-element id="native-debugging.md"/>
             <toc-element id="native-ios-symbolication.md"/>

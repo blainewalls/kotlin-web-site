@@ -90,7 +90,7 @@ Here you'll learn how to develop and improve your cross-platform mobile applicat
    |-------|-------| 
    | Ktor |  [Docs](https://ktor.io/docs/client.html).| 
    | Serialization |  [Docs](serialization.md) and [sample](https://play.kotlinlang.org/hands-on/Networking%20and%20Data%20Storage%20with%20Kotlin%20Multiplatfrom%20Mobile/04_Creating_a_data_model).|
-   | Coroutines |  [Docs](multiplatform-mobile-concurrency-overview.md) and [sample](multiplatform-mobile-concurrency-and-coroutines.md).|
+   | Coroutines |  [Docs](multiplatform-mobile-concurrency-overview.md) and [sample](multiplatform-mobile-coroutines-and-channels.md).|
    | DateTime | [Docs](https://github.com/Kotlin/kotlinx-datetime#readme).|
    | SQLDelight | Third-party library. [Docs](https://cashapp.github.io/sqldelight/).|
    
