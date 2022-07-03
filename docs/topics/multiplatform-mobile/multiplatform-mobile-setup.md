@@ -15,7 +15,7 @@ Before you begin [creating your first application](multiplatform-mobile-create-f
     In Android Studio, select **Tools** | **Kotlin** | **Configure Kotlin Plugin Updates** and check the current Kotlin 
     plugin version. If needed, update to the latest version in the **Stable** update channel.
 5. Install the *Kotlin Multiplatform Mobile* plugin.  
-    In Android Studio, select  **Preferences** | **Plugins**, search for the plugin *Kotlin Multiplatform Mobile* in 
+    In Android Studio, pick  **Preferences** | **Plugins**, search for the plugin *Kotlin Multiplatform Mobile* in 
     **Marketplace** and install it.
     
     ![Kotlin Multiplatform Mobile plugin](mobile-multiplatform-plugin.png){width=500}
